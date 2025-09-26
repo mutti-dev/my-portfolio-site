@@ -1,9 +1,6 @@
 import Portfolio from './screens/Portfolio'
-Portfolio
 
 function App() {
-
-
   return (
     <>
       <Portfolio />
@@ -12,3 +9,6 @@ function App() {
 }
 
 export default App
+
+
+
