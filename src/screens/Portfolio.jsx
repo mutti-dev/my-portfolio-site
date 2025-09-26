@@ -94,7 +94,7 @@ const Portfolio = () => {
       ]
     },
     {
-      title: 'Business Analyst & Forms Team Lead',
+      title: 'Forms Developer',
       company: 'PlanStreet',
       period: 'January 2023 - Present (Remote)',
       achievements: [
