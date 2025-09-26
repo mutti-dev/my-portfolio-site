@@ -168,13 +168,13 @@ const Portfolio = () => {
           <div className="mb-8 animate-fadeIn">
             <div className="w-32 h-32 mx-auto mb-6 rounded-full bg-gradient-to-r from-cyan-400 to-purple-500 p-1">
               <div className="w-full h-full rounded-full bg-slate-900 flex items-center justify-center">
-                <span className="text-4xl font-bold text-cyan-400">MU</span>
+                <span className="text-4xl font-bold text-cyan-400">BW</span>
               </div>
             </div>
           </div>
           
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 bg-clip-text text-transparent animate-slideUp">
-            Mutti Ullah
+            Biz With Mutti
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-300 mb-8 animate-slideUp delay-200">
