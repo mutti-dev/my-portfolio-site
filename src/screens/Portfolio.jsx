@@ -383,10 +383,10 @@ const Portfolio = () => {
           </p>
 
           <div className="grid md:grid-cols-3 gap-8 mb-12">
-            <a href="mailto:mutti0738@gmail.com" className="group bg-slate-900/50 p-6 rounded-xl border border-gray-700 hover:border-cyan-500/50 transition-all duration-300 hover:transform hover:scale-105">
+            <a href="mailto:contact@bizwithmutti.online" className="group bg-slate-900/50 p-6 rounded-xl border border-gray-700 hover:border-cyan-500/50 transition-all duration-300 hover:transform hover:scale-105">
               <Mail className="mx-auto mb-4 text-cyan-400 group-hover:scale-110 transition-transform" size={32} />
               <h3 className="font-semibold mb-2">Email</h3>
-              <p className="text-gray-400 group-hover:text-cyan-400 transition-colors">mutti0738@gmail.com</p>
+              <p className="text-gray-400 group-hover:text-cyan-400 transition-colors">contact@bizwithmutti.online</p>
             </a>
 
             <a href="tel:+923205004945" className="group bg-slate-900/50 p-6 rounded-xl border border-gray-700 hover:border-purple-500/50 transition-all duration-300 hover:transform hover:scale-105">
