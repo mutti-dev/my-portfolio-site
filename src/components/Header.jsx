@@ -40,7 +40,7 @@ const Header = ({ activeSection, isScrolled, isMenuOpen, setIsMenuOpen, scrollTo
         <nav
             className={`fixed top-0 w-full z-50 transition-all duration-500 ${
                 isScrolled 
-                    ? "bg-slate-900/80 backdrop-blur-xl border-b border-white/10 shadow-2xl shadow-cyan-500/10" 
+                    ? "bg-transparent backdrop-blur-xl border- shadow-2xl shadow-cyan-500/10" 
                     : "bg-transparent"
             }`}
             style={{
@@ -144,7 +144,7 @@ const Header = ({ activeSection, isScrolled, isMenuOpen, setIsMenuOpen, scrollTo
                     ? "max-h-96 opacity-100" 
                     : "max-h-0 opacity-0 overflow-hidden"
             }`}>
-                <div className="bg-slate-900/95 backdrop-blur-xl border-t border-white/10">
+                <div className="bg-transparent backdrop-blur-xl border-t border-white/10">
                     <div className="px-6 py-6 space-y-2">
                         {navigationSections.map((section, index) => (
                             <button
